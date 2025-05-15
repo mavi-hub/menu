@@ -1,0 +1,73 @@
+body {
+    margin: 0%;
+    background-color: rgb(250, 207, 155);
+    align-content: center;
+    height: 100vh;
+}
+
+
+h2{
+    justify-self: center;
+    color: rgb(0, 0, 0);
+}
+
+
+h4{
+    justify-self: center;
+    color: bisque (35, 206, 72);
+}
+
+
+h4{
+    justify-self: center;
+    color: bisque (35, 206, 72);
+}
+
+
+h4{
+    justify-self: center;
+    color: bisque (35, 206, 72);
+}
+
+button{
+    background-color: rgb(255, 222, 182);
+    border: none;
+
+    height: 100px;
+    width: 250px;
+    font-size: 18px;
+}
+
+button:hover{
+    background-color: rgb(255, 205, 157);
+}
+
+.perfil{
+    height: 60px;
+    margin-top: 250px;
+}
+
+.logo{
+    height: 100px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:rgb(254, 221, 179);
+    height: 100vh;
+    width: 250px;
+    border-radius: 10px;
+    justify-items: center;
+    box-shadow: 2px 2px 5px rgb(116, 86, 54);
+}
+
+{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+
+
+
+
